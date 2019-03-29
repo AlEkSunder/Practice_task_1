@@ -10,6 +10,7 @@ namespace Practice_task_1
     {
         static void Main(string[] args)
         {
+            var one = 15;
         }
     }
 }
